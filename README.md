@@ -1,5 +1,3 @@
-# ADS131A04-Driver
-4通道24位ADS131A04的驱动程序
 # ADS131A04 驱动
 
 > from lzt + ChatGPT 5.6 sol  
